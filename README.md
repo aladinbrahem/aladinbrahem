@@ -1,4 +1,4 @@
-## 👋🏽 Hi there, I'm Sandeep 👨🏽‍💻
+## 👋🏽 Hi there, I'm Brahem Alaeddine 👨🏽‍💻
 
 ### 👨🏽‍🔬 Personal Projects
 
