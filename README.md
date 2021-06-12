@@ -5,6 +5,8 @@
 __Current__
 * __Arduino Libraries:__ 📡 [LoRa](https://github.com/sandeepmistry/arduino-LoRa "An Arduino library for sending and receiving data using LoRa radios.") | ⚙️ [nRF5](https://github.com/sandeepmistry/arduino-nRF5 "Arduino Core for Nordic Semiconductor nRF5 based boards") | 🥫 [CAN](https://github.com/sandeepmistry/arduino-CAN "An Arduino library for sending and receiving data using CAN bus.") | 🚘 [OBD2](https://github.com/sandeepmistry/arduino-OBD2 "An Arduino library for reading OBD-II data from your car over CAN bus.") |
 
+* __Embedded Linux:__ 📡 [RaspberryPi] (https://github.com/raspberrypi/linux "Create Custum Operating System") | [Buildroot] (https://github.com/buildroot/buildroot "Create Custum Operating System") | [Yocto] (https://git.yoctoproject.org/"Create Custum Operating System")
+
 __Past__
 * __Node.js__
   * __BLE:__ 🔵 [noble](https://github.com/noble/noble "A Node.js BLE (Bluetooth Low Energy) central module") | 🔵 [bleno](https://github.com/noble/bleno "A Node.js module for implementing BLE (Bluetooth Low Energy) peripherals") | 🔵 [bluetooth-hci-socket](https://github.com/noble/node-bluetooth-hci-socket "Bluetooth HCI socket binding for Node.js") | 🔵 [noble-device](https://github.com/noble/noble-device "A Node.js lib to abstract BLE (Bluetooth Low Energy) peripherals, uses noble") | 🟥 [sensortag](https://github.com/sandeepmistry/node-sensortag "Node.js lib for the TI SensorTag and TI CC2650 SensorTag") | 🏮[bleacon](https://github.com/sandeepmistry/node-bleacon "A Node.js library for creating, discovering, and configuring iBeacons") | 🌸 [flower-power](https://github.com/sandeepmistry/node-flower-power "Node.js lib for the Parrot Flower Power") |
