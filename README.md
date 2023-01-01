@@ -5,7 +5,7 @@
 __Current__
 * __Arduino Libraries:__ 📡 [LoRa](https://github.com/sandeepmistry/arduino-LoRa "An Arduino library for sending and receiving data using LoRa radios.") | ⚙️ [nRF5](https://github.com/sandeepmistry/arduino-nRF5 "Arduino Core for Nordic Semiconductor nRF5 based boards") | 🥫 [CAN](https://github.com/sandeepmistry/arduino-CAN "An Arduino library for sending and receiving data using CAN bus.") | 🚘 [OBD2](https://github.com/sandeepmistry/arduino-OBD2 "An Arduino library for reading OBD-II data from your car over CAN bus.") |
 
-* __Embedded Linux:__ 📡 [Embedded Linux](https://github.com/raspberrypi/linux "Create Custum Operating System.") | 🥫 [Buildroot](https://github.com/buildroot/buildroot "Create Custum Operating System") | 🚘 [Yocto] (https://git.yoctoproject.org/"Create Custum Operating System.") |
+* __Embedded Linux:__ 📡 [Embedded Linux](https://github.com/raspberrypi/linux "Create Custum Operating System.") | 🥫 [Buildroot](https://github.com/buildroot/buildroot "Create Custum Operating System") | 🚘 [Yocto] (https://git.yoctoproject.org/ "Create Custum Operating System.") | 🥫 [Buildroot](https://github.com/buildroot/buildroot "Create Custum Operating System") |
 
 __Past__
 * __Node.js__
